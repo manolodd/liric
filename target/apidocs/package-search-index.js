@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.manolodominguez.liric.cli"},{"l":"com.manolodominguez.liric.main"}]
